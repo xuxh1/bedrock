@@ -1,0 +1,7 @@
+bk/
+data/
+logs/
+*.lsf
+*.txt
+*.yaml
+*.out
